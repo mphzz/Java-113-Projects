@@ -8,5 +8,5 @@ Provide your implementation for a DoubleLinkedList<E>. Apart from a default cons
   
   ListIterator interface methods to implement:
   
-- Iterator<E>	iterator()
+- Iterator<E> ||	iterator()
 Returns an iterator over the elements in this list in proper sequence.
